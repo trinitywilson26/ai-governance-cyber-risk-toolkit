@@ -1,0 +1,16 @@
+{
+  "name": "ai-governance-cyber-risk-toolkit",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vite": "^5.0.12",
+    "vitest": "^1.2.1"
+  }
+}
